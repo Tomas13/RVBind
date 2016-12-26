@@ -1,0 +1,5 @@
+<resources>
+    <string name="photo_message" formatted="false">Item #%d was clicked!</string>
+
+    <string name="app_name">RVBind</string>
+</resources>
